@@ -1,1 +1,1 @@
-stateless clone of lamp. I love lamp.
+I love [lamp](https://github.com/ironman9967/iron-iot-lamp).
